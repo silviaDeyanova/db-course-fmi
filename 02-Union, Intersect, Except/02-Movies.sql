@@ -1,4 +1,3 @@
---1. Напишете заявка, която извежда имената на актьорите мъже, участвали във филма The Usual Suspects.
 select name
 from moviestar
 where gender='m'
